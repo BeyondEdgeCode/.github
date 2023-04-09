@@ -1,4 +1,4 @@
-# CringeCode | Freelance repository
+# BeyondEdge | Freelance repository
 **Development of projects of any complexity**
 
 ## Dev stack
